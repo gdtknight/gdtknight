@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## My name is **YongHo** (aka. Yong)<br>
- I'm interested in both **backend development** and **frontend development**<br>
- I often play basketball🏀 when I have free time<br>
+My name is <p style="display:inline-block; font-size:15px; font-weight:bold; color:#00EE00;"> YongHo (aka. Yong)</p>
+I'm interested in both **backend development** and **frontend development**<br>
+I often play basketball🏀 when I have free time<br>
  (**Jayson Tatum** is one of my favorite NBA players. Shout out to J! His attitude about life inspires me)<br>
 
 - 🔭 I’m currently in beetween jobs.
