@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is **YongHo** (aka. Yong)<br>
-I'm interested in both **backend development** and **frontend development**<br>
-I often play basketball🏀 when I have free time<br>
-(**Jayson Tatum** is one of my favorite NBA players. Shout out to J! His attitude about life inspires me)<br>
+## My name is **YongHo** (aka. Yong)<br>
+ I'm interested in both **backend development** and **frontend development**<br>
+ I often play basketball🏀 when I have free time<br>
+ (**Jayson Tatum** is one of my favorite NBA players. Shout out to J! His attitude about life inspires me)<br>
 
 - 🔭 I’m currently in beetween jobs.
 - 🌱 I’m currently learning Java, Data Structures, Algorithms and DataBase
