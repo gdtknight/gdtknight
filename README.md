@@ -11,8 +11,7 @@ I often play basketball🏀 when I have free time<br>
 - 📫 How to reach me: ...
 - ⚡ Moto<br><br>
 
-*'He who has a **why** to live for can bear almost any **how**'*<br>
-                                                       *- Friedrich Nietzsche*
+*'He who has a **why** to live for can bear almost any **how**'* *- Friedrich Nietzsche*
 
 
 <!--
