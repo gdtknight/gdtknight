@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm interested in both **backend development** and **frontend development**<br>
+I'm interested in both ***backend development** and **frontend development***<br>
 I often play basketball🏀 when I have free time<br>
  (**Jayson Tatum** is one of my favorite NBA players. Shout out to J! His attitude about life inspires me)<br>
 
