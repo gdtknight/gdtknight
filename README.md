@@ -9,8 +9,10 @@ I often play basketball🏀 when I have free time<br>
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Moto:<br><br>
- ***Don't forget*** <br><br>![image](https://user-images.githubusercontent.com/115003898/204034892-7df14efd-d2c9-47e6-ba59-22a9cfb19d14.jpeg)<br>
+- ⚡ Moto<br><br>
+
+*'He who has a **why** to live for can bear almost any **how**'*<br>
+                                                       *- Friedrich Nietzsche*
 
 
 <!--
