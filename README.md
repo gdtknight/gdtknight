@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome to my repo :)
 
 I'm interested in both ***backend development** and **frontend development***<br>
 I often play basketball🏀 when I have free time<br>
