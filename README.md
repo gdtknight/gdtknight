@@ -1,7 +1,7 @@
 # Welcome to my repo :)
 
 I'm interested in both ***backend development** and **frontend development***<br>
-I often play basketball🏀 when I have free time<br>
+I often play 🏀 when I have free time<br>
  (**Jayson Tatum** is one of my favorite NBA players. Shout out to J! His attitude about life inspires me)<br>
 
 - 🔭 I’m currently in beetween jobs.
