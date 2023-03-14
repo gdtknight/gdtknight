@@ -10,6 +10,6 @@ I often play 🏀 when I have free time<br>
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Moto: ... -->
-<br>
-<br>
+<br><br>
+
 *He who has a **why** to live for can bear almost any **how** - Friedrich Nietzsche*
